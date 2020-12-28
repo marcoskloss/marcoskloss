@@ -1,5 +1,5 @@
 ## Opa! 🤙
 
-Me chamo **Marcos Kloss**, sou estudante de Engenharia de Computação pela Universidade Federal de Pelotas e atualmente resido em Caxias do Sul - RS. Além disso, estudo, através do curso *Desenvolvimento Web - Do zero ao primeiro projeto*, toda a stack Javascript. Por enquanto domino:  CSS, HTML e Javascript.
+Me chamo **Marcos Kloss**, sou estudante de Engenharia de Computação pela Universidade Federal de Pelotas e atualmente resido em Caxias do Sul - RS. Além disso, estudo, através do curso *Desenvolvimento Web - Do zero ao primeiro projeto*, toda a stack Javascript. Por enquanto tenho familiaridade:  CSS, HTML e Javascript.
 
  [![Linkedin Badge](https://img.shields.io/badge/-marcoskloss-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcoskloss/)](hhttps://www.linkedin.com/in/marcos-kloss-483b67202/)
