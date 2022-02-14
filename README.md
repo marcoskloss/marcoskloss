@@ -8,8 +8,9 @@ Me chamo **Marcos Kloss**, sou estudante de Ciência da Computação pela Univer
  
  Estudando: </br>
  [![](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+ 
+---
 
-Conecte-se comigo 😁 <br>
  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-kloss/)
 
 
